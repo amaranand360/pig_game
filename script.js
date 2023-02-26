@@ -61,7 +61,7 @@ let rollop = function rollfun() {
     diceEl.src = `img/dice-${dice}.png `
     
     //3.Cheack rolled value is 1 than switch payer.
-    if (dice !== 5)
+    if (dice !== 1)
     {
         currentscore += dice;
         document.getElementById(`current_${activeplayer}`).textContent = currentscore;

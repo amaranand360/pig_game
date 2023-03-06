@@ -22,4 +22,8 @@ To use Pig Game, simply visit the website at :https://pig-game-website.netlify.a
 
 If you have any questions or comments about Pig Game, please contact us at: amaranand806@gmail.com 👈
 
-Have fun rolling the dice! 🎲🎲🐷
+# Screenshot Demo 
+
+![Screenshot (19)](https://user-images.githubusercontent.com/122713145/223183464-485745af-366c-4e57-aa34-eaf16679200a.png)
+
+# Have fun rolling the dice! 🎲🎲🐷

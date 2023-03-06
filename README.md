@@ -12,10 +12,9 @@ To use Pig Game, simply visit the website at :https://pig-game-website.netlify.a
 # Features 🌟
 
 - User-friendly interface with intuitive controls.
-- Customizable gameplay options, including target score and number of players.
-- Realistic dice rolling animation and sound effects.
+- Realistic dice rolling animation effects.
 - Leaderboard to track high scores.
-- Option to play New game.
+- Option to play New game and Hold.
 
 
 # Contact 📞
